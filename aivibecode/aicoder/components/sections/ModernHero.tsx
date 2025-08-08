@@ -31,7 +31,7 @@ export default function ModernHero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+          <h1 className="text-5xl md:text-7xl font-bold mb-16 mt-24 leading-tight">
             Revolutionary
             <span className="gradient-text block">Solutions</span>
             for Tomorrow
